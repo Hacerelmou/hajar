@@ -1,9 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
  * main - Entry point
+ *
  * discription: 'check for number if it's positive or negative'
+ *
  * return: always 0
  */
 int main(void)
