@@ -4,10 +4,8 @@
 
 /**
  * main - Entry point
- *
- * discription: 'check for number if it's positive or negative'
- *
- * return: always 0
+ * Description: checks whether a randomly generated number is positive, negative, or zero
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
