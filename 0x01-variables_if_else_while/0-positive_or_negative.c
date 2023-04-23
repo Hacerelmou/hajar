@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- * Description: checks whether a randomly generated number is positive, negative, or zero
+ * Description:'checks a randomly generated number is positive or  negative'
  * Return: Always 0 (Success)
  */
 int main(void)
