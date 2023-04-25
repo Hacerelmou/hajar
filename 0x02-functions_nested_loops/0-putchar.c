@@ -1,12 +1,10 @@
 #include "main.h"
-
 /**
- * main - Entry point of the program
- *
- * Description: This program prints the string "_putchar" followed by a new line
- *
- * Return: Always 0 (success)
+ * main - print _putchar
+ * this program is printing _putchar
+ * Return: 0
  */
+
 int main(void)
 {
 _putchar('_');
