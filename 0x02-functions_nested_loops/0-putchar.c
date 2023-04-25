@@ -1,8 +1,10 @@
 #include "main.h"
 /**
- * main - print _putchar
- * is written by mbah
- * Return: 0
+ * main - Entry point of the program
+ *
+ * Description: This program prints the string "_putchar" followed by a new line
+ *
+ * Return: Always 0 (success)
  */
 
 int main(void)
